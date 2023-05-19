@@ -2,6 +2,6 @@
 
 * [Overview](README.md)
 
-## Group 1
+## User Guide
 
-* [Page 1](group-1/page-1.md)
+* [Page 1](user-guide/page-1.md)
